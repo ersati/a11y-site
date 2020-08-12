@@ -121,7 +121,7 @@ section .mbr-background-video-preview {
   color: black
 }
 
-.mbr-black {
+p.mbr-black {
   color: #000000;
 }
 
