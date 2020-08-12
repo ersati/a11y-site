@@ -178,14 +178,14 @@ body {
 .btn-primary:active {
   background-color: #ff7f9f !important;
   border-color: #ff7f9f !important;
-  color: #ffffff !important;
+  color: #000000 !important;
 }
 
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary.focus,
 .btn-primary.active {
-  color: #ffffff !important;
+  color: #000000 !important;
   background-color: #ff3266 !important;
   border-color: #ff3266 !important;
 }
@@ -652,7 +652,7 @@ a.text-black:focus {
 
 a,
 a:hover {
-  color: #ff7f9f;
+  color: #632736;
 }
 
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
@@ -1711,6 +1711,10 @@ body {
   transition: font-size 0.25s;
 }
 
+.cid-rgE1IHAUk3 H3 {
+  color: black !important;
+}
+
 .cid-rgDtXICFi7 .navbar.navbar-short .navbar-logo a .mbr-iconfont {
   font-size: 2.5rem !important;
 }
@@ -2041,12 +2045,12 @@ body {
 }
 
 .cid-rgE1IHAUk3 H3 {
-  color: #ffffff;
+  color: #000000;
 }
 
 .cid-rgE1IHAUk3 .mbr-text,
 .cid-rgE1IHAUk3 .mbr-section-btn {
-  color: #ffffff;
+  color: #000000;
 }
 
 .cid-rgEeWAbpLh {
